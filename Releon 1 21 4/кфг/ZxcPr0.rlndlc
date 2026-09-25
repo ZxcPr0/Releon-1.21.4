@@ -1,0 +1,872 @@
+{
+  "antiafk": {
+    "bind": -1,
+    "state": true,
+    "Режим": "",
+    "Время выполнения": 10.0
+  },
+  "jumpcircle": {
+    "bind": -1,
+    "state": false,
+    "Размер ": 2.17,
+    "Скорость": 2992.31,
+    "Цвет": -1973761
+  },
+  "betterminecraft": {
+    "bind": -1,
+    "state": true,
+    "Кастомные кнопки": false,
+    "Спектаторы в табе": false
+  },
+  "aimbot": {
+    "bind": -1,
+    "state": false,
+    "Дистанция": 16.0,
+    "Таргет": "Players,Mobs,Animals"
+  },
+  "targetstrafe": {
+    "bind": -1,
+    "state": false,
+    "Режим": "HVH",
+    "Точка ходьбы": "Cube",
+    "Точка для обхода": "Circle",
+    "Радиус обхода": 0.87,
+    "Радиус": 2.5,
+    "Скорость": 0.3,
+    "Настройки": "Auto Jump",
+    "Направление": "Clockwise"
+  },
+  "strafe": {
+    "bind": -1,
+    "state": false,
+    "Режим": "HVH",
+    "Скорость": 0.42
+  },
+  "autopilot": {
+    "bind": -1,
+    "state": false
+  },
+  "airstuck": {
+    "bind": -1,
+    "state": false
+  },
+  "noentitytrace": {
+    "bind": -1,
+    "state": false,
+    "Без меча": true
+  },
+  "nofall": {
+    "bind": -1,
+    "state": false
+  },
+  "elytramotion": {
+    "bind": -1,
+    "state": false
+  },
+  "highjump": {
+    "bind": -1,
+    "state": false,
+    "Режим": "Shulker"
+  },
+  "shifttap": {
+    "bind": -1,
+    "state": false
+  },
+  "aspectratio": {
+    "bind": -1,
+    "state": true,
+    "Соотношение": 1.39
+  },
+  "freelook": {
+    "bind": -1,
+    "state": true,
+    "Свободный обзор": -1
+  },
+  "clickpearl": {
+    "bind": -1,
+    "state": false,
+    "Кнопка": -1
+  },
+  "clickfriend": {
+    "bind": -1,
+    "state": false,
+    "Добавить друга": -1
+  },
+  "tab parser": {
+    "bind": -1,
+    "state": false,
+    "Версия": "1.16.5",
+    "Донат префиксы": ""
+  },
+  "targetesp": {
+    "bind": -1,
+    "state": true,
+    "Отображения таргета": "Cube",
+    "Картинка для куба": "2",
+    "Тип круга": "1",
+    "Тип призраков": "1",
+    "Цвет": -1,
+    "Краснеть при ударе": true
+  },
+  "noweb": {
+    "bind": -1,
+    "state": false,
+    "Режим": "Grim"
+  },
+  "server helper": {
+    "bind": -1,
+    "state": false,
+    "Тип сервера": "FunTime",
+    "Авто лут": true,
+    "Таймер расходников": true,
+    "Поиск на аукционе": -1,
+    "Авто поинт": true,
+    "Авто шалкер": true,
+    "Авто ремонт": true,
+    "Анти полет": -1,
+    "Свиток опыта": -1,
+    "Взрывная трапка": -1,
+    "Обычная трапка": -1,
+    "Стан": -1,
+    "Взрывная штучка": -1,
+    "Божья аура": -1,
+    "Трапка": -1,
+    "Пласт": -1,
+    "Явная пыль": -1,
+    "Огненный смерч": -1,
+    "Дезориентация": -1,
+    "Заряд ветра": -1,
+    "Снежок заморозка": -1,
+    "Светильник Джека": -1,
+    "Пузырь опыта": -1,
+    "Ком Снега": -1,
+    "Рюкзак 1 уровня": -1,
+    "Рюкзак 2 уровня": -1,
+    "Рюкзак 3 уровня": -1,
+    "Рюкзак 4 уровня": -1,
+    "Хлопушка": -1,
+    "Святая вода": -1,
+    "Зелье Гнева": -1,
+    "Зелье Ассасина": -1,
+    "Зелье Палладина": -1,
+    "Зелье Радиации": -1,
+    "Зелье снотворное": -1
+  },
+  "waterspeed": {
+    "bind": -1,
+    "state": true,
+    "Режим": "FunTime"
+  },
+  "itemscroller": {
+    "bind": -1,
+    "state": false,
+    "Задержка прокрутки предметов": 50.0
+  },
+  "hud": {
+    "bind": -1,
+    "state": false,
+    "Accent Color": -39623,
+    "Жидкое Стекло": false,
+    "Стиль худа": "Classic",
+    "Элементы ": "Inventory",
+    "Watermark": "Ping,FPS,TPS",
+    "Уведомления": "Module Switch,Item Pick Up,Auto Armor,Break Shield",
+    "Volume": 1.0,
+    "Hot Keys Rect": -15592684,
+    "CoolDowns Rect": -15592684,
+    "StaffList Rect": -15592684,
+    "Inventory Rect": -15592684,
+    "Watermark Rect": -16777216,
+    "TargetHud Rect": -16777216,
+    "Notifications Rect": -15592684,
+    "Potions Rect": -15592684
+  },
+  "wardenhelper": {
+    "bind": -1,
+    "state": false,
+    "Критическое время": 0.9,
+    "Зелёный при": 12.0,
+    "Радиус сундуков": 24.0,
+    "Радиус привязки": 4.0,
+    "Интервал скана": 350.0,
+    "Показывать всегда": true,
+    "Высота текста": 1.25,
+    "Удержание": 5000.0,
+    "Цвет тревоги": -46261
+  },
+  "auctionhelper": {
+    "bind": -1,
+    "state": false,
+    "Самый дешевый предмет": -11796661,
+    "Экономичный предмет": -46261
+  },
+  "predictions": {
+    "bind": -1,
+    "state": false,
+    "Размер": 0.2,
+    "Цвет": -39623
+  },
+  "particles": {
+    "bind": -1,
+    "state": false,
+    "Тип частиц": "Звезды",
+    "От земли": true,
+    "Коллизия": true,
+    "Скейл": true,
+    "Количество": 50.0,
+    "Дальность": 32.0,
+    "Размер": 1.0,
+    "Макс количество": 50.0,
+    "Спавн/сек": 15.0,
+    "Высота спавна": 10.0,
+    "Гравитация": 0.0,
+    "Сила движения": 1.0,
+    "Наклон X": 0.0,
+    "Наклон Z": 0.0,
+    "Время жизни": 800.0,
+    "Радиус спавна": 25.0,
+    "Цвет": 939524095,
+    "Totem Pop": true,
+    "Totem Count": 70.0,
+    "Totem Speed": 4.0,
+    "Totem Lifetime": 1500.0
+  },
+  "irc": {
+    "bind": -1,
+    "state": false
+  },
+  "elytratarget": {
+    "bind": -1,
+    "state": false,
+    "Дистанция наводки": 64.0,
+    "Значение перегона": 6.0,
+    "Кнопка вкл/выкл перегона": -1
+  },
+  "triggerbot": {
+    "bind": -1,
+    "state": false,
+    "Дистанция удара": 4.69,
+    "Тип таргета": "Players,Naked Players,Friends,Animals,Mobs,Armor Stand",
+    "Настройки": "Ignore The Walls,No Attack When Eat",
+    "Режим спринта": "Legit",
+    "Шанс удара в %": 100.0,
+    "Удары на земле": false,
+    "Синхронизация с TPS": false
+  },
+  "killaura": {
+    "bind": 69,
+    "state": false,
+    "Наводка": "ReallyWorld",
+    "Коррекции движения": "Focused",
+    "Тип таргета": "Players,Naked Players",
+    "Дистанция удара": 6.0,
+    "Дополнительная дистанция поиска": 0.03,
+    "Snap Hold": 50.0,
+    "Snap Speed": 50.0,
+    "Режим спринта°": "SpookyTime",
+    "Smoothing": 1.0,
+    "Yaw Step": 180.0,
+    "Pitch Step": 90.0,
+    "Шанс удара в %": 100.0,
+    "Настройки": "",
+    "Удары на земле": false,
+    "Синхронизация с TPS": true,
+    "Только с мечом": true,
+    "Не атаковать": false
+  },
+  "autoswap": {
+    "bind": -1,
+    "state": false,
+    "Авто режим": "Нет",
+    "Режим свапа": "Двойной",
+    "Первый предмет": "Тотем бессмертия",
+    "Второй предмет": "Золотое яблоко",
+    "Третий предмет": "Щит",
+    "Клавиша использования": -1
+  },
+  "chams": {
+    "bind": -1,
+    "state": false,
+    "Цели": "Все",
+    "Цвет темы": true,
+    "Цвет": -39836,
+    "Прозрачность": 160.0,
+    "Прозрачность заливки": 62.69,
+    "Толщина линий": 1.54,
+    "Слои": 1.0,
+    "Сквозь стены": true
+  },
+  "maceswap": {
+    "bind": -1,
+    "state": false
+  },
+  "autosearchevent": {
+    "bind": -1,
+    "state": false
+  },
+  "ahhelper": {
+    "bind": -1,
+    "state": false,
+    "Поиск предмета": -1,
+    "Перевыставление предметов": false,
+    "Цвет минимальной цены": -18355,
+    "Цвет лучшей цены за штуку": -46261
+  },
+  "basefinder": {
+    "bind": -1,
+    "state": false
+  },
+  "chinahat": {
+    "bind": -1,
+    "state": false,
+    "Показывать на друзьях": false,
+    "Цвет": -1459683328
+  },
+  "farmcarrot": {
+    "bind": -1,
+    "state": false
+  },
+  "ancientxray": {
+    "bind": -1,
+    "state": false
+  },
+  "airplace": {
+    "bind": -1,
+    "state": false
+  },
+  "itemfixswap": {
+    "bind": -1,
+    "state": false
+  },
+  "clientindication": {
+    "bind": -1,
+    "state": true
+  },
+  "autofortuna": {
+    "bind": -1,
+    "state": false
+  },
+  "aim assist": {
+    "bind": -1,
+    "state": false,
+    "Тип таргета": "Players,Mobs,Animals",
+    "Дистанция": 6.0,
+    "FOV": 360.0,
+    "Рисовать FOV": false,
+    "Скорость": 4.0,
+    "Плавность": 5.0,
+    "Высота прицела": 0.85,
+    "Приоритет": "Дистанция",
+    "Только с оружием": false,
+    "Только игроки": false,
+    "Не целиться в инвентаре": true,
+    "Бить невидимых": false,
+    "Только Одетых": false,
+    "Не бить голых": false,
+    "Проверка стен": false
+  },
+  "aimpotion": {
+    "bind": -1,
+    "state": false,
+    "Дистанция": 6.0
+  },
+  "trails": {
+    "bind": -1,
+    "state": false,
+    "Отрисовывать на": "Игроках",
+    "Длина": 2.5,
+    "Режим": "Glow",
+    "Размер glow": 0.35,
+    "Кастомный цвет": -39623
+  },
+  "clickgui": {
+    "bind": 344,
+    "state": true,
+    "Кнопка открытия ClickGUI": 344,
+    "Цвет текста GUI": -789000,
+    "Цвет активного GUI": -9663233,
+    "GUI Alpha Compat": 0.82
+  },
+  "velocity": {
+    "bind": -1,
+    "state": false,
+    "Режим": "NewGrim"
+  },
+  "fullbright": {
+    "bind": -1,
+    "state": true,
+    "Яркость": 1.0
+  },
+  "nofrienddamage": {
+    "bind": -1,
+    "state": false
+  },
+  "hitbox": {
+    "bind": -1,
+    "state": false,
+    "Расширение где не работать XZ ": 0.2,
+    "Расширение  где не работать Y": 0.0,
+    "Аим": true,
+    "Рендер хитбокса": true
+  },
+  "nuker": {
+    "bind": -1,
+    "state": false,
+    "Режим": "Авто",
+    "Ротация": true,
+    "Тихая ротация": true,
+    "Быстрая наводка": false,
+    "Копать на бегу": true,
+    "Приоритет руд": true,
+    "Целевые блоки": "Алмаз,Древние обломки,Изумруд,Золото,Железо,Камень",
+    "Копать вниз": true,
+    "Радиус": 3.0,
+    "Скорость копания": 2.0,
+    "Скорость ротации": 0.35,
+    "Шаг Yaw": 8.0,
+    "Шаг Pitch": 6.0,
+    "Влияние повтора": 0.8,
+    "Допуск наведения": 10.0
+  },
+  "antibot": {
+    "bind": -1,
+    "state": true,
+    "Режим": "ReallyWorld"
+  },
+  "autoauth": {
+    "bind": -1,
+    "state": false,
+    "Пароль": "bee1892"
+  },
+  "autocrystal": {
+    "bind": -1,
+    "state": false,
+    "Защита": "Себя,Друзей,Ресурсы",
+    "Дистанция до ресурсов": 6.0
+  },
+  "autosprint": {
+    "bind": -1,
+    "state": true,
+    "Игнорировать": "Blindness,Slowness"
+  },
+  "nopush": {
+    "bind": -1,
+    "state": false,
+    "Игнорировать": ""
+  },
+  "elytrahelper": {
+    "bind": -1,
+    "state": false,
+    "Замена элитр": -1,
+    "Использовать фейерверк": -1,
+    "Быстрый старт": false,
+    "Авто взлет": false
+  },
+  "joinerhelper": {
+    "bind": -1,
+    "state": false,
+    "Сервер": "ReallyWorld",
+    "Номер грифа": 1.0
+  },
+  "nodelay": {
+    "bind": -1,
+    "state": false,
+    "Тип": ""
+  },
+  "autorespawn": {
+    "bind": -1,
+    "state": true,
+    "Режим": "ФанТайм возврат"
+  },
+  "spookyjoiner": {
+    "bind": -1,
+    "state": false
+  },
+  "noslow": {
+    "bind": -1,
+    "state": false,
+    "Мод": "FunTimeАрбалет",
+    "Spooky Delay": 1.0,
+    "Packet Debug": false
+  },
+  "autobootsswap": {
+    "bind": -1,
+    "state": false,
+    "Основной предмет": "Netherite Boots",
+    "Вторичный предмет": "Diamond Boots",
+    "Кнопка использования предмета": -1
+  },
+  "guimove": {
+    "bind": -1,
+    "state": false
+  },
+  "blink": {
+    "bind": -1,
+    "state": false
+  },
+  "autotool": {
+    "bind": -1,
+    "state": false
+  },
+  "fly": {
+    "bind": 71,
+    "state": false,
+    "Режим": "Normal",
+    "Скорость XZ": 8.89,
+    "Скорость Y": 2.62
+  },
+  "fastbreak": {
+    "bind": -1,
+    "state": false
+  },
+  "camerasettings": {
+    "bind": -1,
+    "state": false,
+    "Сквозь блоки": true,
+    "Зум": -1,
+    "Дистанция камеры": 2.0
+  },
+  "cosmetic": {
+    "bind": -1,
+    "state": false,
+    "Figura": false,
+    "Модель скина": "Ninjago",
+    "Кастомный меч": false,
+    "Модель меча": "Devilsknife",
+    "Шляпа": true,
+    "Модель шляпы": "Лягушки",
+    "Показывать на друзьях": true
+  },
+  "speed": {
+    "bind": -1,
+    "state": false,
+    "Mode": "Normal",
+    "Speed": 5.0,
+    "Hitbox Expand": 0.39,
+    "Motion Multiplier": 0.04,
+    "Timer Ground": 1.35,
+    "Timer Air": 1.15
+  },
+  "timer": {
+    "bind": -1,
+    "state": false,
+    "Mode": "Shift",
+    "Old": false,
+    "Speed": 4.52,
+    "ShiftTicks": 8.0,
+    "BoostKey": -1,
+    "OnFlag": "Disable"
+  },
+  "swinganimation": {
+    "bind": -1,
+    "state": true,
+    "Тип взмаха": "Down",
+    "Сила взмаха": 1.12,
+    "Длительность взмаха": 1.74,
+    "Только при взмахе": false,
+    "Только при включенной КиллАуре": false,
+    "Размер руки": 0.58
+  },
+  "viewmodel": {
+    "bind": -1,
+    "state": false,
+    "Основная рука X": 0.0,
+    "Основная рука Y": 0.0,
+    "Основная рука Z": 0.0,
+    "Второстепенная рука X": 0.0,
+    "Второстепенная рука Y": 0.0,
+    "Второстепенная рука Z": 0.0
+  },
+  "blockoverlay": {
+    "bind": -1,
+    "state": true,
+    "Цвет шейдера": -13250400,
+    "Скорость волн": 3.0,
+    "Сила волн": 1.0,
+    "Прозрачность": 0.27,
+    "Скорость перемещения": 29.11
+  },
+  "jesus": {
+    "bind": -1,
+    "state": true
+  },
+  "esp": {
+    "bind": -1,
+    "state": true,
+    "Тип сущности": "Item,Warden,Player",
+    "Настройки игрока": "Box,Armor,NameTags",
+    "Тип": "3D Box",
+    "Контур": false,
+    "Прозрачность": 1.0,
+    "Толщина линий": 2.5,
+    "Кастомный цвет": false,
+    "Цвет": -39623
+  },
+  "blockesp": {
+    "bind": -1,
+    "state": false,
+    "Цвет": -65536,
+    "Радиус": 32.0,
+    "Уведомления": false
+  },
+  "autototem": {
+    "bind": -1,
+    "state": true,
+    "Порог здоровья": 4.5,
+    "Здоровье на элитре": 8.5,
+    "Дистанция кристала ": 4.0,
+    "Высота кристала": 2.5,
+    "Учитывать падение": true
+  },
+  "freecam": {
+    "bind": 86,
+    "state": false,
+    "Скорость": 2.0,
+    "Заморозка": false
+  },
+  "clanupgrade": {
+    "bind": -1,
+    "state": false
+  },
+  "cheststealer": {
+    "bind": -1,
+    "state": false,
+    "Type": "Warden",
+    "Delay": 100.0,
+    "WhiteList": false,
+    "FunTime Loot": "",
+    "Default Loot": "",
+    "Warden Loot": ""
+  },
+  "pvpsafe": {
+    "bind": -1,
+    "state": false,
+    "Подтверждать /hub": true,
+    "Подтверждать выход": true,
+    "Окно подтверждения": 3000.0
+  },
+  "autoevent": {
+    "bind": -1,
+    "state": false,
+    "Delay ms": 350.0
+  },
+  "autosell": {
+    "bind": -1,
+    "state": false,
+    "Скорость выставления": 1.0,
+    "Цена": "10kk",
+    "Продавать": "Тотем,Незерит шлем,Незерит нагрудник,Незерит поножи,Незерит ботинки,Незерит меч,Незерит кирка,Зачарованное яблоко,Голова игрока,Шалкер,Незерит слиток,Голова дракона,Элитры,Снежок,Взрывное зелье,Отмычка,Незеритовый лом,Маяк,Яйцо Жителя"
+  },
+  "autotpaccept": {
+    "bind": -1,
+    "state": false,
+    "Только друзья": true
+  },
+  "arrows": {
+    "bind": -1,
+    "state": true,
+    "Режим ": "Стрелка",
+    "Радиус": 50.0,
+    "Размер": 10.0,
+    "Цвет": -1
+  },
+  "autoleave": {
+    "bind": -1,
+    "state": false,
+    "Тип выхода": "Main Menu",
+    "Триггеры": "Players,Staff",
+    "Максимальная дистанция": 10.0
+  },
+  "worldtweaks": {
+    "bind": -1,
+    "state": false,
+    "Настройки мира": "",
+    "Время": 12.0,
+    "Дистанция тумана": 100.0,
+    "Цвет": -39623,
+    "Цвет неба": -5359810,
+    "Sky Waves Speed": 0.45,
+    "Sky Waves Intensity": 1.0
+  },
+  "no clip": {
+    "bind": -1,
+    "state": false
+  },
+  "norender": {
+    "bind": -1,
+    "state": true,
+    "Элементы": "Fire,Bad Effects,Block Overlay,Darkness,Damage"
+  },
+  "autobuy": {
+    "bind": -1,
+    "state": false,
+    "Открыть меню": -1,
+    "Бинд на включение ": -1,
+    "Автопарсер ": -1,
+    "Задержка обновления": 500.0,
+    "Менять анархию каждые": 5.0,
+    "Задержка между кликами": 200.0,
+    "Процент скидки": 55.0
+  },
+  "nameprotect": {
+    "bind": -1,
+    "state": false,
+    "Друзья": true
+  },
+  "selfdestruct": {
+    "bind": -1,
+    "state": false
+  },
+  "seeinvisible": {
+    "bind": -1,
+    "state": true,
+    "Прозрачность": 0.7
+  },
+  "targetpearl": {
+    "bind": -1,
+    "state": true,
+    "Режим": "Always",
+    "Таргет": "Aura Target",
+    "Бинд": -1,
+    "Дистанция": 10.0
+  },
+  "autoarmor": {
+    "bind": -1,
+    "state": false
+  },
+  "autouse": {
+    "bind": -1,
+    "state": false,
+    "Авто использование": ""
+  },
+  "nointeract": {
+    "bind": -1,
+    "state": false
+  },
+  "openwalls": {
+    "bind": -1,
+    "state": false,
+    "Trace Range": 10.0,
+    "Nearest Range": 5.0,
+    "Keep GUI Open": true,
+    "Blocks": "Chest,Trapped Chest,Barrel,Ender Chest,Shulker,Hopper,Furnace,Blast Furnace,Smoker,Dispenser,Dropper"
+  },
+  "crosshair": {
+    "bind": -1,
+    "state": false,
+    "Отступ кулдауна": 10.0,
+    "Отступ": 0.0,
+    "Ширина": 4.0,
+    "Высота": 1.0,
+    "Цвет": -39623
+  },
+  "superfirework": {
+    "bind": -1,
+    "state": false,
+    "Режим": "Grim",
+    "Скорость": 20.0
+  },
+  "spider": {
+    "bind": -1,
+    "state": false,
+    "Mode": "FunTime"
+  },
+  "serverrpspoof": {
+    "bind": -1,
+    "state": false
+  },
+  "applefarm": {
+    "bind": -1,
+    "state": false,
+    "Режим рубки": "На месте",
+    "Авто-стоп": true,
+    "Задержка действий (мс)": 1.0,
+    "Задержка команд (мс)": 600.0,
+    "Задержка ломания (мс)": 1.0,
+    "Задержка смены инструмента (мс)": 80.0,
+    "Радиус сканирования": 6.0,
+    "Высота сканирования": 20.0,
+    "Макс. дистанция": 5.0,
+    "Дистанция ломания": 5.5,
+    "Поворот Yaw": 180.0,
+    "Поворот Pitch": 180.0,
+    "Допуск ломания": 20.0,
+    "Допуск взаимодействия": 16.0,
+    "Авто-починка мотыги": true,
+    "Порог починки (%)": 15.0,
+    "Задержка починки (мс)": 500.0
+  },
+  "usetracker": {
+    "bind": -1,
+    "state": false,
+    "Трекать": "Снос тотема,Полученные зелья,Съеденный предмет",
+    "Радиус зелий": 100.0
+  },
+  "killeffect": {
+    "bind": -1,
+    "state": true,
+    "Volume": 100.0,
+    "Play Sound": true,
+    "Mobs": false,
+    "Effect Type": "Cross"
+  },
+  "autowarden": {
+    "bind": -1,
+    "state": false,
+    "Хом склада": "st",
+    "Хом лута": "warden",
+    "Только сундуки с таймером": true,
+    "Задержка открытия": 150.0,
+    "Заходить за (мс)": 3000.0,
+    "Выходить меньше чем": "60",
+    "Название таблички": "инвиз,еда"
+  },
+  "armor": {
+    "posX": 579,
+    "posY": 518
+  },
+  "target hud": {
+    "posX": 10,
+    "posY": 80
+  },
+  "potions": {
+    "posX": 200,
+    "posY": 40
+  },
+  "hot keys": {
+    "posX": 300,
+    "posY": 40
+  },
+  "watermark": {
+    "posX": 10,
+    "posY": 10
+  },
+  "inventory": {
+    "posX": 340,
+    "posY": 205
+  },
+  "cool downs": {
+    "posX": 10,
+    "posY": 40
+  },
+  "staff list": {
+    "posX": 115,
+    "posY": 40
+  },
+  "binds": {
+    "posX": 10,
+    "posY": 180
+  },
+  "notifications": {
+    "posX": 425,
+    "posY": 370
+  },
+  "player info": {
+    "posX": 0,
+    "posY": 253
+  },
+  "music bar": {
+    "posX": 20,
+    "posY": 20
+  }
+}
